@@ -20,7 +20,8 @@
 
 ### First-page section (Hero block)
 
-- [ ] `$npm install cypress` button copy npm command in buffer
+- [ ] `$npm install cypress` button copy npm command in clipboard on click
+- [ ] `$npm install cypress` click triggers a `toast` popup
 - [ ] `Download now` starts download (has a valid href)
 - [ ] `get started` link has a valid href
 - [ ] `video` img has a valid href
