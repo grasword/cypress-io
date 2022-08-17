@@ -4,20 +4,17 @@
 
 ## Visibility testing
 
-- [ ] `header` is displayed
-- [ ] `main` is displayed
-- [ ] `footer` is displayed
-- [ ] `Cypress logo` is displayed
-- [ ] `Chat` iframe is displayed (optional)
+- [x] `header` is displayed
+- [x] `main` is displayed
+- [x] `footer` is displayed
+- [x] `Cypress logo` is displayed
 
 ## Unit testing
 
 ### **Header**
 
-- [ ] `Navigation menu` buttons has a valid href
-- [ ] `Cypress logo` has a valid href
-- [ ] `Sing up` button has a valid href
-- [ ] `Github` icon has a valid href
+- [x] `Navigation menu` links has a valid href
+- [x] `Cypress logo` has a valid href
 
 ### **Main**
 
