@@ -2,7 +2,7 @@
 
 # **Home Page**
 
-## Visibility testing
+## [Visibility testing](https://github.com/grasword/cypress-io/blob/main/cypress/e2e/unit/home-page/visibility.cy.js)
 
 - [x] `header` is displayed
 - [x] `main` is displayed
@@ -11,17 +11,17 @@
 
 ## Unit testing
 
-### **Header**
+### [**Header**](https://github.com/grasword/cypress-io/blob/main/cypress/e2e/unit/home-page/header.cy.js)
 
 - [x] `Navigation menu` links has a valid href
 - [x] `Cypress logo` has a valid href
 
 ### **Main**
 
-### First-page section (Hero block)
+### [First-page section (Hero block)](<https://github.com/grasword/cypress-io/blob/main/cypress/e2e/unit/home-page/hero_block(first_section).cy.js>)
 
-- [ ] `$npm install cypress` button copy npm command in clipboard on click
-- [ ] `$npm install cypress` click triggers a `toast` popup
+- [x] `$npm install cypress` button copy npm command in clipboard on click
+- [x] `$npm install cypress` click triggers a `toast` popup
 - [ ] `Download now` starts download (has a valid href)
 - [ ] `get started` link has a valid href
 - [ ] `video` img has a valid href
