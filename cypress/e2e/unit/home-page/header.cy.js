@@ -12,7 +12,7 @@ describe('Header', () => {
       cy.wrap(item, { log: false })
         .invoke({ log: false }, 'attr', 'href')
         .then((href) => {
-          cy.log(`${href} should have valid href`)
+          cy.log(`${href} should return 200`)
           cy.request(href).its('status').should('eq', 200)
         })
     })
